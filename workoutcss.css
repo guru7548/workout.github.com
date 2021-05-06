@@ -1,0 +1,30 @@
+h1,a{
+   color:tomato
+}
+
+li{
+list-style-type:square
+}
+
+
+
+a:hover{
+    color:yellowgreen;
+    text-decoration:none;
+}
+
+body h1 {
+color:tomato;
+background-color:yellowgreen;
+padding: 3px;
+  
+
+}
+
+
+
+#heading{
+color:tomato;
+background-color:black;
+}
+
